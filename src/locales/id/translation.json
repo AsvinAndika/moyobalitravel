@@ -1,0 +1,593 @@
+{
+  "navbar": {
+    "home": "Home",
+    "airport_transfer": "Airport Transfer",
+    "about": "About",
+    "tour_packages": "Paket Wisata",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "ulundanu": {
+      "title": "Pura Ulun Danu Bratan",
+      "subtitle": "Pura Ulun Danu Bratan berdiri anggun di tepi Danau Bratan, Bedugul. Dikelilingi kabut pegunungan dan air yang tenang, pura ini menjadi simbol keharmonisan antara manusia, alam, dan Tuhan."
+    },
+    "tegalalang": {
+      "title": "Terasering Tegalalang, Ubud",
+      "subtitle": "Nikmati keindahan hamparan sawah bertingkat di Tegalalang, Ubud. Lanskap hijau ini merupakan warisan sistem irigasi Subak yang diakui UNESCO."
+    },
+    "kecak": {
+      "title": "Tari Kecak Uluwatu",
+      "subtitle": "Saksikan pertunjukan Tari Kecak di Pura Luhur Uluwatu saat matahari terbenam, dengan panorama laut selatan Bali yang menakjubkan."
+    },
+    "lovina": {
+      "title": "Pantai Lovina, Bali Utara",
+      "subtitle": "Nikmati keindahan Pantai Lovina yang tenang, terkenal dengan atraksi lumba-lumba di pagi hari dan suasananya yang damai."
+    },
+    "lempuyang": {
+      "title": "Pura Lempuyang",
+      "subtitle": "Pura Lempuyang Luhur terkenal dengan 'Gerbang Surga' yang menghadap langsung ke Gunung Agung."
+    },
+    "kelingking": {
+      "title": "Pantai Kelingking, Nusa Penida",
+      "subtitle": "Pantai Kelingking di Nusa Penida terkenal dengan tebing berbentuk T-Rex dan laut biru jernihnya yang menakjubkan."
+    },
+    "button": "Lihat Wisata"
+  },
+
+  "trip": {
+    "title": {
+      "main": "Paket Trip",
+      "highlight": "Pilihan"
+    },
+    "subtitle": "Petualangan seru di Bali menanti Anda. Pilih trip favoritmu!",
+    "button": "Lihat Semua Paket"
+  },
+
+   "aboutHome": {
+    "welcome": "Selamat Datang di",
+    "title": {
+      "main": "Moyo Bali",
+      "highlight": "Driver"
+    },
+    "desc1": "Moyo Bali Driver siap membantu Anda menjelajahi keindahan Pulau Dewata bersama driver lokal asli Bali yang berpengalaman dan fasih berbahasa Inggris. Kami hadir untuk menghadirkan pengalaman perjalanan yang nyaman, aman, dan penuh kehangatan khas Bali.",
+    "desc2": "Kami percaya setiap perjalanan memiliki ceritanya sendiri — mulai dari antar-jemput bandara, tur ke destinasi populer, hingga tempat tersembunyi yang hanya diketahui oleh warga lokal. Nikmati fleksibilitas layanan kami dan keramahan tulus orang Bali di setiap perjalanan Anda.",
+    "button": "Selengkapnya"
+  },
+
+  "whyChoose": {
+      "subtitle": "Jelajahi Bali Bersama Kami",
+      "title": "Mengapa Memilih",
+      "highlight": "Moyo Bali Travel",
+      "items": [
+    {
+      "icon": "/car.png",
+      "title": "Driver Lokal Asli Bali",
+      "desc": "Jelajahi Bali bersama sopir asli Bali yang tahu setiap tempat tersembunyi dan kisah budaya di baliknya."
+    },
+    {
+      "icon": "/icondua.png",
+      "title": "Kenyamanan & Keamanan Utama",
+      "desc": "Mobil bersih, ber-AC, dan sopir profesional yang selalu mengutamakan kenyamanan serta keselamatan Anda."
+    },
+    {
+      "icon": "/icontiga.png",
+      "title": "Perjalanan Fleksibel & Pribadi",
+      "desc": "Setiap perjalanan bisa disesuaikan dengan minat Anda — dari tur pura hingga air terjun tersembunyi."
+    },
+    {
+      "icon": "/iconempat.png",
+      "title": "Dipercaya Banyak Wisatawan",
+      "desc": "Ratusan tamu puas merekomendasikan Moyo Bali Travel karena kejujuran, ketepatan waktu, dan keramahan kami."
+    }
+  ]
+    },
+
+    "airporthome": {
+      "subtitle": "Harga Transparan",
+      "title": "Layanan Antar Jemput",
+      "highlight": "Bandara Bali",
+      "desc": "Layanan antar-jemput bandara yang nyaman dan andal dengan sopir profesional serta kendaraan modern.",
+      "button": "Pesan Sekarang!"
+    },
+
+    "tourhome": {
+      "title": {
+        "main": "Jelajahi",
+        "highlight": "Paket Wisata Kami"
+      },
+      "desc": "Tur kami memberikan Anda kesempatan lebih besar untuk mengenal budaya Bali, agama, seni, kehidupan tradisional, serta keindahan alam menakjubkan dari pedesaan Bali dan pulau-pulau di sekitarnya.",
+       "viewDetails": "Lihat Detail"
+    },
+
+    "tourPackages": [
+    {
+      "title": "Bali Selatan Tour",
+      "description": "Eksplorasi penuh pantai eksotis, budaya, dan keseruan utama di Bali Selatan.",
+      "image": "/kecak.png",
+      "link": "/bali-selatan-tour"
+    },
+    {
+      "title": "Nusa Penida Tour",
+      "description": "Saksikan tebing ikonik, pantai tersembunyi, dan spot foto terbaik Nusa Penida.",
+      "image": "/special.jpg",
+      "link": "/nusa-penida-tour"
+    },
+    {
+      "title": "Tour Activity",
+      "description": "Pilihan aktivitas seru: watersport yang mendebarkan dan petualangan alam lainnya.",
+      "image": "/activity.jpg",
+      "link": "/tour-activity"
+    },
+    {
+      "title": "Lembongan Tour",
+      "description": "Nikmati pantai tenang, Jembatan Kuning, dan spot snorkeling di Pulau Lembongan.",
+      "image": "/lembongan.jpg",
+      "link": "/lembongan-tour"
+    }
+  ],
+
+  "experienceStats": [
+    { "count": "12k+", "label": "Perjalanan Sukses" },
+    { "count": "12k+", "label": "Klien Tetap" },
+    { "count": "12k+", "label": "Pengalaman" }
+  ],
+
+   "experienceSection": {
+    "subtitle": "Pengalaman Kami",
+    "titleBefore": "Dengan seluruh",
+    "titleHighlight": "pengalaman",
+    "description": "Selama lebih dari satu dekade, kami telah membantu ribuan wisatawan menjelajahi keindahan Bali dengan aman dan nyaman. Tim kami berdedikasi untuk memberikan pengalaman perjalanan yang otentik, ramah, dan berkesan di setiap destinasi yang Anda kunjungi."
+  },
+
+  "faqSection": {
+    "faqs": [
+      {
+        "question": "Apakah transportasi tersedia 24 jam?",
+        "answer": "Ya, kami beroperasi 24 jam sehari, 7 hari seminggu. Baik kapal Anda tiba pagi-pagi atau larut malam, sopir kami siap menjemput kapan saja."
+      },
+      {
+        "question": "Bisakah saya memilih destinasi sendiri?",
+        "answer": "Tentu! Anda bebas menentukan ke mana ingin pergi. Baik itu transfer hotel langsung, berhenti di objek wisata, atau tur sehari penuh — kami bisa menyesuaikan dengan preferensi Anda."
+      },
+      {
+        "question": "Bagaimana cara memesan sopir?",
+        "answer": "Anda bisa memesan melalui website kami, WhatsApp, atau menghubungi kami langsung. Kami sarankan memesan sebelumnya, terutama saat musim ramai di Bali."
+      },
+      {
+        "question": "Apakah sopir Anda berpengalaman?",
+        "answer": "Ya! Semua sopir kami adalah profesional lokal — ramah, berpengalaman, dan bisa berbahasa Inggris. Mereka juga bisa memberikan tips tentang tempat tersembunyi di Bali."
+      },
+      {
+        "question": "Bisakah saya berhenti di perjalanan?",
+        "answer": "Tentu saja! Anda boleh berhenti untuk foto, makan, atau belanja. Beri tahu kami sebelumnya agar jadwal bisa disesuaikan."
+      },
+      {
+        "question": "Apakah Anda hanya menyediakan transfer atau juga tur sehari?",
+        "answer": "Kami menyediakan keduanya. Anda bisa memesan transfer satu arah, tur privat sehari penuh, atau paket multi-hari. Sopir kami juga bisa menjadi pemandu lokal jika diperlukan."
+      },
+      {
+        "question": "Apakah layanan transportasi Anda aman?",
+        "answer": "Keselamatan Anda adalah prioritas utama kami. Sopir kami berlisensi dan berpengalaman, kendaraan diasuransikan, dan selalu mematuhi aturan lalu lintas. Perjalanan Anda akan aman dan nyaman."
+      }
+    ]
+  },
+
+
+   "faqHeader": {
+    "subtitle": "Pertanyaan yang Sering Diajukan",
+    "titleBefore": "Perlu bantuan?",
+    "titleHighlight": "Temukan jawaban Anda di sini"
+  },
+
+  "ctaSection": {
+    "title": "Siap Merencanakan Liburan Terbaik Anda di Bali?",
+    "description": "Hubungi kami sekarang untuk mendapatkan penawaran paket wisata terbaik dan layanan driver profesional.",
+    "buttonText": "Konsultasi Gratis Via WhatsApp"
+  },
+  "services": [
+    { "name": "Antar Jemput Bandara & Hotel", "href": "/transport" },
+    { "name": "Tour Sehari Penuh di Bali", "href": "/full-day-tour" },
+    { "name": "Rencana Perjalanan Custom & Pemandu Pribadi", "href": "/custom-tour" }
+  ],
+
+   "aboutSubtitle": "Partner terpercaya Anda untuk menjelajahi keindahan Bali dengan paket wisata dan driver lokal terbaik.",
+    "footer": {
+    "quickLinks": "Tautan Cepat",
+    "ourServices": "Layanan Kami",
+    "contactUs": "Hubungi Kami"
+  },
+
+   "airportpage": {
+    "description": "Kami menjamin perjalanan Anda dari bandara (airport) hingga ke destinasi impian berjalan mulus, aman, dan tepat waktu dengan kendaraan terbaik kami.",
+    "button": "Pesan Sekarang"
+  },
+
+   "airportRoutes": {
+    "title": "Rute Transfer Pilihan"
+  },
+
+
+  "airportTransfer": {
+    "intro": "“Selamat Datang di Bali.” Bersama <highlight>Moyo Bali Travel</highlight>, perjalanan Anda dimulai dengan kenyamanan dan layanan profesional sejak Anda mendarat di Pulau Dewata.",
+    "servicesTitle": "Layanan Antar-Jemput Profesional",
+    "servicesDesc": "Moyo Bali Travel menyediakan <highlight>antar-jemput pribadi</highlight> dari bandara atau pelabuhan dengan pengemudi berpengalaman, ramah, dan fasih berbahasa Inggris, memastikan perjalanan Anda aman dan nyaman.",
+    "servicesList": [
+      {
+        "title": "Siap 24 Jam",
+        "desc": "Layanan kami tersedia kapan pun Anda tiba."
+      },
+      {
+        "title": "Kendaraan Pribadi & Nyaman",
+        "desc": "Armada modern dan pengemudi profesional siap melayani Anda."
+      },
+      {
+        "title": "Fleksibilitas Layanan",
+        "desc": "Antar-jemput hotel atau tur harian sesuai kebutuhan."
+      }
+    ],
+    "coverageTitle": "Area Layanan Utama",
+    "coverageDesc": "Kami melayani semua titik kedatangan utama di Bali, termasuk:",
+    "coverageList": [
+      {
+        "title": "Bandara Internasional Ngurah Rai",
+        "desc": "Untuk semua kedatangan pesawat."
+      },
+      {
+        "title": "Pelabuhan Benoa",
+        "desc": "Untuk kedatangan kapal pesiar."
+      },
+      {
+        "title": "Pelabuhan Celukan Bawang",
+        "desc": "Untuk kedatangan di Bali Utara."
+      }
+    ],
+    "note": "Harga antar-jemput disesuaikan dengan jarak ke lokasi tujuan."
+  },
+
+  "airportIntro": "Moyo Bali Travel adalah layanan transportasi profesional di Bali yang siap menemani perjalanan Anda menjelajahi keindahan Pulau Dewata.",
+
+   "driver_section": {
+    "title": "Layanan Driver",
+    "highlight": "Lokal Bali",
+    "description": "Moyo Bali Travel menyediakan layanan transportasi profesional dengan driver lokal asli Bali yang berpengalaman, ramah, dan fasih berbahasa Inggris. Kami menjamin perjalanan Anda aman, nyaman, dan menyenangkan.",
+    "button": "Mulai Perjalanan Anda",
+    "stats": {
+      "experience": "Tahun Pengalaman",
+      "service": "Layanan Siap",
+      "clients": "Klien Puas",
+      "satisfaction": "Tingkat Kepuasan"
+    }
+  },
+
+  "about_story": {
+    "title": "Cerita di Balik",
+    "highlight": "Perjalanan Kami",
+    "description_1": "Moyo Bali Travel lahir dari semangat yang tulus untuk memberikan pengalaman perjalanan yang tak terlupakan di pulau Bali yang mempesona. Berawal dari layanan transportasi pribadi yang sederhana, kami telah berkembang menjadi mitra terpercaya bagi ribuan wisatawan, baik lokal maupun internasional.",
+    "vision_title": "Visi & Misi Kami",
+    "description_2": "Visi kami adalah menjadi penyedia layanan transportasi dan tur terbaik di Bali, yang senantiasa mengutamakan kenyamanan, keamanan, ketepatan waktu, dan keramahan legendaris Bali dalam setiap perjalanan yang kami layani.",
+    "chips": {
+      "safe": "Aman & Nyaman",
+      "local": "Driver Lokal & Profesional",
+      "flexible": "Fleksibilitas & Tepat Waktu"
+    }
+  },
+
+   "cta": {
+    "title": "Mulai Perjalanan Anda Sekarang",
+    "description": "Jelajahi Bali dengan Moyo Bali Travel – driver lokal asli Bali, armada nyaman, dan layanan profesional siap menemani setiap langkah perjalanan Anda.",
+    "button": "Booking Sekarang"
+  },
+
+  "adventure": {
+    "title": {
+      "part1": "Rasakan",
+      "part2": "Petualangan Baru"
+    },
+    "description": "Jelajahi keindahan Bali dengan layanan terpercaya kami. Kami berkomitmen memberikan pengalaman liburan yang aman, nyaman, dan tak terlupakan untuk setiap petualang.",
+    "features": {
+      "safe": {
+        "title": "Perjalanan Aman",
+        "desc": "Nikmati perjalanan tenang bersama driver profesional dan kendaraan terawat."
+      },
+      "affordable": {
+        "title": "Harga Terjangkau",
+        "desc": "Harga kompetitif tanpa mengorbankan kualitas pelayanan."
+      },
+      "comfort": {
+        "title": "Akomodasi Nyaman",
+        "desc": "Pilihan akomodasi yang disesuaikan dengan kebutuhan dan kenyamanan Anda."
+      }
+    }
+  },
+
+  "drivers": {
+    "subtitle": "Perjalanan Anda, Prioritas Kami",
+    "title": {
+      "part1": "Driver Lokal",
+      "part2": "& Profesional"
+    },
+    "list": [
+      {
+        "name": "Nyoman",
+        "desc": "Driver lokal asli Bali, berpengalaman dan fasih berbahasa Inggris."
+      },
+      {
+        "name": "Ketut",
+        "desc": "Mengenal setiap sudut Bali dan destinasi rahasia yang indah."
+      },
+      {
+        "name": "Made",
+        "desc": "Profesional, ramah, dan selalu tepat waktu untuk perjalanan Anda."
+      }
+    ]
+  },
+
+  "tourPackagesSection": {
+    "title": "Paket Tour Bali",
+    "subtitle": "Jelajahi keindahan Bali bersama Moyo Bali Driver — nikmati perjalanan privat yang nyaman, aman, dan berkesan ke berbagai destinasi terbaik di Pulau Dewata."
+  },
+
+  "tourPackagesTitle": "Jelajahi Paket Tour Bali Kami",
+
+  "contactSection": {
+    "title": "Hubungi Kami",
+    "subtitle": "Kami siap membantu Anda merencanakan perjalanan terbaik di Bali. Hubungi tim Moyo Bali Driver untuk reservasi, pertanyaan layanan, atau informasi tur."
+  },
+
+  "contactSectionFull": {
+  "infoTitle": "Informasi Kontak",
+  "addressTitle": "Alamat Kantor",
+  "addressText": "Jl. Raya Ubud, Gianyar, Bali, Indonesia",
+  "phoneTitle": "Hubungi Langsung",
+  "phoneText": "+62 812-3456-7890 (Tersedia 24/7)",
+  "emailTitle": "Email Bisnis",
+  "emailText": "moyobalidriver@gmail.com",
+  "socialTitle": "Temukan Kami di Sosial Media",
+  "formTitle": "Kirimkan Pesan Anda",
+  "formName": "Nama Lengkap Anda",
+  "formEmail": "Email Anda",
+  "formMessage": "Detail Pesan atau Pertanyaan",
+  "formButton": "Kirim Pesan Sekarang"
+},
+
+"transfer": {
+    "minPerson": "Minimal 2 Orang",
+    "button":"Pesan Sekarang",
+   "destinations": {
+  "kuta": {
+    "description": "Pantai populer, pusat belanja, dan hiburan malam khas Bali."
+  },
+  "jimbaran": {
+    "description": "Nikmati seafood tepi pantai dan suasana santai dekat bandara."
+  },
+  "nusa-dua": {
+    "description": "Resor mewah, pantai putih, dan tempat makan elegan."
+  },
+  "uluwatu": {
+    "description": "Tebing ikonik, ombak menantang, dan sunset menawan."
+  },
+  "ubud": {
+    "description": "Kawasan budaya dan seni dengan suasana tenang dan hijau."
+  },
+  "tegallalang": {
+    "description": "Sawah bertingkat indah dengan nuansa pedesaan Bali."
+  },
+  "padangbai": {
+    "description": "Pelabuhan ke Gili dan Lombok, dengan pantai dan snorkeling indah."
+  },
+  "amed": {
+    "description": "Spot diving favorit di Bali Timur dengan suasana tenang."
+  },
+  "candidasa": {
+    "description": "Pantai tenang dan tradisi Bali Timur yang autentik."
+  },
+  "tulamben": {
+    "description": "Surga penyelam dengan bangkai kapal USAT Liberty yang ikonik."
+  },
+  "lovina": {
+    "description": "Tenang dan alami, terkenal dengan atraksi lumba-lumba."
+  },
+  "pemuteran": {
+    "description": "Destinasi barat Bali dengan taman karang dan pelabuhan ke Jawa."
+  }
+}
+
+  },
+"booking_form_title": "Form Pemesanan",
+  "form_name": "Nama Lengkap",
+  "form_email": "Email",
+  "form_phone": "Nomor Telepon",
+  "form_message": "Pesan / Permintaan Khusus",
+  "book_now": "Pesan Sekarang",
+  "contact_info": "Kontak Kami",
+  "price_title": "Harga",
+  "program_title": "Program Perjalanan",
+  "included_title": "Termasuk",
+
+
+ "tours": [
+  {
+    "id": 1,
+    "title": "Tur Matahari Terbenam Pura Uluwatu",
+    "duration": "8 jam",
+    "image": "/uluwatutemple.jpg",
+    "description": "Nikmati pesona Bali selatan yang menawan. Kunjungi Pura Uluwatu yang megah di tebing, bersantai di pantai yang indah, saksikan pertunjukan Tari Kecak yang terkenal, dan akhiri hari Anda dengan makan malam seafood romantis di tepi Pantai Jimbaran.",
+    "highlight": [
+      "Garuda Wisnu Kencana",
+      "Pantai Padang-Padang",
+      "Pura Uluwatu di Tebing",
+      "Pertunjukan Tari Kecak",
+      "Makan Malam Romantis di Pantai Jimbaran"
+    ],
+    "program": [
+      "Penjemputan dari hotel (sekitar pukul 13:00)",
+      "Kunjungi Taman Budaya GWK – lihat patung Garuda Wisnu Kencana dan pemandangan panorama Bali",
+      "Berhenti di Pantai Padang-Padang – bersantai atau berenang di salah satu pantai populer Bali",
+      "Jelajahi Pura Uluwatu yang ikonik di tebing dengan pemandangan Samudra Hindia",
+      "Saksikan pertunjukan Tari Kecak terkenal dunia saat matahari terbenam",
+      "Nikmati makan malam seafood romantis di Pantai Jimbaran",
+      "Kembali ke hotel dengan aman"
+    ],
+    "included": [
+      "Mobil pribadi ber-AC (Avanza/Innova)",
+      "Sopir/pemandu berbahasa Inggris",
+      "Air mineral dingin & handuk dingin",
+      "Wi-Fi gratis di mobil",
+      "Biaya bahan bakar & parkir",
+      "Tiket masuk semua tempat wisata (GWK, Pantai Padang-Padang, Pura Uluwatu)",
+      "Tiket pertunjukan Tari Kecak",
+      "Makan malam seafood di Pantai Jimbaran"
+    ],
+    "not_included": [
+      "Pengeluaran pribadi",
+      "Asuransi perjalanan",
+      "Tips untuk sopir (opsional)"
+    ],
+    "price": "Mulai dari IDR 650K / orang (minimal 2 orang)",
+    "note": "Tur ini sempurna untuk wisatawan yang ingin menikmati budaya, alam, dan kuliner dalam satu hari yang tak terlupakan.",
+    "whatsappText": "Halo! Saya tertarik untuk memesan Tur Matahari Terbenam Pura Uluwatu. Bisa berbagi info lebih lanjut?",
+    "gallery": [
+      "/gwk.png",
+      "/padangbeach.jpg",
+      "/uluwatutemple.jpg",
+      "/kecakdance.jpg",
+      "/dinnerjimbaran.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Petualangan Pantai Nusa Dua & Watersport",
+    "duration": "6 jam",
+    "image": "/nusaduabeach.jpg",
+    "description": "Nikmati air jernih Pantai Nusa Dua. Coba kegiatan watersport seru seperti jet ski, parasailing, dan banana boat, lalu bersantai dengan makan siang di tepi pantai.",
+    "highlight": [
+      "Petualangan Jet Ski",
+      "Pengalaman Parasailing",
+      "Banana Boat",
+      "Bersantai di Pantai Nusa Dua",
+      "Makan Siang di Tepi Pantai"
+    ],
+    "program": [
+      "Penjemputan dari hotel",
+      "Tiba di Pantai Nusa Dua dan nikmati kegiatan watersport",
+      "Makan siang di kafe tepi pantai",
+      "Bersantai dan berenang di pantai",
+      "Kembali ke hotel"
+    ],
+    "included": [
+      "Mobil pribadi ber-AC",
+      "Sopir/pemandu berbahasa Inggris",
+      "Peralatan & perlengkapan keselamatan watersport",
+      "Makan siang",
+      "Biaya bahan bakar & parkir",
+      "Tiket masuk pantai"
+    ],
+    "not_included": [
+      "Pengeluaran pribadi",
+      "Asuransi perjalanan",
+      "Tips untuk sopir/pemandu"
+    ],
+    "price": "Mulai dari IDR 500K / orang",
+    "note": "Sempurna untuk pencinta petualangan dan pantai.",
+    "whatsappText": "Halo! Saya tertarik memesan Petualangan Pantai Nusa Dua & Watersport. Bisa beri info lebih lanjut?",
+    "gallery": [
+      "/nusaduabeach.jpg",
+      "/jetski.jpg",
+      "/parasailing.jpg",
+      "/bananaboat.jpg",
+      "/beachlunch.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Tur Pura Tanah Lot & Sawah Tabanan",
+    "duration": "7 jam",
+    "image": "/tanahlot.jpg",
+    "description": "Jelajahi ikon Bali, Pura Tanah Lot, dan nikmati keindahan sawah Tabanan. Cocok untuk pecinta alam dan penggemar fotografi.",
+    "highlight": [
+      "Pura Tanah Lot",
+      "Sawah Tabanan",
+      "Pemandangan Matahari Terbenam",
+      "Desa Budaya",
+      "Spot Foto"
+    ],
+    "program": [
+      "Penjemputan dari hotel",
+      "Kunjungi Sawah Tabanan untuk pemandangan indah",
+      "Berhenti di desa budaya untuk melihat kehidupan lokal",
+      "Kunjungi Pura Tanah Lot dan nikmati pemandangan matahari terbenam",
+      "Kembali ke hotel"
+    ],
+    "included": [
+      "Mobil pribadi & sopir",
+      "Tiket masuk tempat wisata",
+      "Pemandu berbahasa Inggris",
+      "Bahan bakar & parkir",
+      "Air mineral"
+    ],
+    "not_included": [
+      "Pengeluaran pribadi",
+      "Makan & minum",
+      "Tips"
+    ],
+    "price": "Mulai dari IDR 600K / orang",
+    "note": "Ideal untuk wisatawan yang menyukai alam dan fotografi budaya.",
+    "whatsappText": "Halo! Saya tertarik memesan Tur Pura Tanah Lot & Sawah Tabanan. Bisa berbagi info lebih lanjut?",
+    "gallery": [
+      "/tanahlot.jpg",
+      "/tabananrice.jpg",
+      "/villages.jpg",
+      "/sunsettanahlot.jpg",
+      "/photospot.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pengalaman Budaya & Makan Seafood Jimbaran",
+    "duration": "5 jam",
+    "image": "/jimbaranseafood.jpg",
+    "description": "Rasakan perpaduan budaya dan kuliner Bali. Kunjungi Pura Uluwatu, saksikan Tari Kecak, dan akhiri hari dengan makan malam seafood di Teluk Jimbaran.",
+    "highlight": [
+      "Kunjungan Pura Uluwatu",
+      "Pertunjukan Tari Kecak",
+      "Makan Malam Seafood di Jimbaran",
+      "Pemandangan Matahari Terbenam",
+      "Transportasi Pribadi"
+    ],
+    "program": [
+      "Penjemputan dari hotel",
+      "Kunjungi Pura Uluwatu",
+      "Saksikan pertunjukan Tari Kecak saat matahari terbenam",
+      "Makan malam seafood di Teluk Jimbaran",
+      "Kembali ke hotel"
+    ],
+    "included": [
+      "Mobil pribadi ber-AC",
+      "Sopir/pemandu berbahasa Inggris",
+      "Makan malam di Jimbaran",
+      "Tiket masuk Pura Uluwatu",
+      "Bahan bakar & parkir"
+    ],
+    "not_included": [
+      "Pengeluaran pribadi",
+      "Asuransi perjalanan",
+      "Tips untuk pemandu"
+    ],
+    "price": "Mulai dari IDR 700K / orang",
+    "note": "Pengalaman budaya dan kuliner yang tak terlupakan.",
+    "whatsappText": "Halo! Saya tertarik memesan Pengalaman Budaya & Makan Seafood Jimbaran. Bisa beri info lebih lanjut?",
+    "gallery": [
+      "/jimbaranseafood.jpg",
+      "/uluwatutemple2.jpg",
+      "/kecakdance2.jpg",
+      "/sunsetjimbaran.jpg",
+      "/beachdinner.jpg"
+    ]
+  }
+]
+
+
+
+
+}

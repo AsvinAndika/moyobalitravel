@@ -1,0 +1,589 @@
+{
+  "navbar": {
+    "home": "Home",
+    "airport_transfer": "Airport Transfer",
+    "about": "About",
+    "tour_packages": "Tour Packages",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "ulundanu": {
+      "title": "Ulun Danu Bratan Temple",
+      "subtitle": "Ulun Danu Bratan Temple stands gracefully on the shores of Lake Bratan in Bedugul. Surrounded by misty mountains and calm water, it symbolizes harmony between humans, nature, and God."
+    },
+    "tegalalang": {
+      "title": "Tegalalang Rice Terrace, Ubud",
+      "subtitle": "Enjoy the beauty of Tegalalang’s rice terraces — a UNESCO-recognized irrigation heritage of Bali."
+    },
+    "kecak": {
+      "title": "Uluwatu Kecak Dance",
+      "subtitle": "Watch the traditional Kecak dance at Uluwatu Temple during sunset, with a stunning ocean view."
+    },
+    "lovina": {
+      "title": "Lovina Beach, North Bali",
+      "subtitle": "Experience the calm Lovina Beach, famous for dolphin watching and peaceful vibes."
+    },
+    "lempuyang": {
+      "title": "Lempuyang Temple",
+      "subtitle": "Known for the ‘Gate of Heaven’, this temple offers breathtaking views of Mount Agung."
+    },
+    "kelingking": {
+      "title": "Nusa Penida Kelingking Beach",
+      "subtitle": "Famous for its T-Rex cliff shape and turquoise sea — a must-see Bali destination."
+    },
+     "button": "View Tours"
+  },
+
+  "trip": {
+    "title": {
+      "main": "Selected",
+      "highlight": "Trip Packages"
+    },
+    "subtitle": "Exciting adventures in Bali await you. Choose your favorite trip!",
+    "button": "View All Packages"
+  },
+
+   "aboutHome": {
+    "welcome": "Welcome to",
+    "title": {
+      "main": "Moyo Bali",
+      "highlight": "Driver"
+    },
+    "desc1": "Moyo Bali Driver is ready to help you explore the beauty of Bali with experienced local Balinese drivers who speak English fluently. We are here to provide a comfortable, safe, and warm travel experience with genuine Balinese hospitality.",
+    "desc2": "We believe every journey has its own story — from airport transfers and tours to hidden spots only locals know. Enjoy the flexibility of our services and the sincere friendliness of Balinese people on every trip.",
+    "button": "Read More"
+  },
+
+  "whyChoose": {
+      "subtitle": "Explore Bali With Us",
+      "title": "Why Choose",
+      "highlight": "Moyo Bali Travel",
+      "items": [
+    {
+      "icon": "/car.png",
+      "title": "Local Balinese Drivers",
+      "desc": "Explore Bali with native Balinese drivers who know every hidden spot and the culture behind it."
+    },
+    {
+      "icon": "/icondua.png",
+      "title": "Comfort & Safety First",
+      "desc": "Clean, air-conditioned cars and professional drivers who always prioritize your comfort and safety."
+    },
+    {
+      "icon": "/icontiga.png",
+      "title": "Flexible & Personalized Trips",
+      "desc": "Every trip is tailored to your interests — from temple tours to hidden waterfalls."
+    },
+    {
+      "icon": "/iconempat.png",
+      "title": "Trusted by Many Travelers",
+      "desc": "Hundreds of happy guests recommend Moyo Bali Travel for honesty, punctuality, and friendliness."
+    }
+  ]
+    },
+
+    "airporthome": {
+      "subtitle": "Transparent Pricing",
+      "title": "Bali Airport",
+      "highlight": "Transfer",
+      "desc": "Comfortable, reliable airport transfer service with professional drivers and modern vehicles.",
+      "button": "Book Your Airport Transfer Now!"
+    },
+
+    "tourhome": {
+      "title": {
+        "main": "Explore Our",
+        "highlight": "Tour Packages"
+      },
+      "desc": "Our tour offers you a greater opportunity to learn about Balinese culture, religion, arts, traditional life, and the stunning natural beauty of Bali’s countryside and nearby islands.",
+      "viewDetails": "View Details"
+    },
+
+     "tourPackages": [
+    {
+      "title": "South Bali Tour",
+      "description": "Explore exotic beaches, culture, and top highlights of South Bali.",
+      "image": "/kecak.png",
+      "link": "/bali-selatan-tour"
+    },
+    {
+      "title": "Nusa Penida Tour",
+      "description": "See iconic cliffs, hidden beaches, and the best photo spots in Nusa Penida.",
+      "image": "/special.jpg",
+      "link": "/nusa-penida-tour"
+    },
+    {
+      "title": "Tour Activity",
+      "description": "Exciting activity options: thrilling watersports and other nature adventures.",
+      "image": "/activity.jpg",
+      "link": "/tour-activity"
+    },
+    {
+      "title": "Lembongan Tour",
+      "description": "Enjoy serene beaches, Yellow Bridge, and snorkeling spots on Lembongan Island.",
+      "image": "/lembongan.jpg",
+      "link": "/lembongan-tour"
+    }
+  ],
+
+   "experienceStats": [
+    { "count": "12k+", "label": "Successful trip" },
+    { "count": "12k+", "label": "Regular clients" },
+    { "count": "12k+", "label": "Experience" }
+  ],
+
+  "experienceSection": {
+    "subtitle": "Our Experience",
+    "titleBefore": "With our all",
+    "titleHighlight": "experience",
+    "description": "For more than a decade, we've been helping thousands of travelers explore the beauty of Bali safely and comfortably. Our team is dedicated to delivering authentic, friendly, and memorable travel experiences in every destination you visit."
+  },
+
+  "faqSection": {
+    "faqs": [
+      {
+        "question": "Is transportation available 24 hours?",
+        "answer": "Yes, we operate 24 hours a day, 7 days a week. Whether your boat arrives early in the morning or late at night, our driver will be ready to pick you up anytime."
+      },
+      {
+        "question": "Can I choose my own destinations?",
+        "answer": "Absolutely! You are free to decide where you want to go. Whether it’s a direct hotel transfer, a stop at tourist attractions, or a full-day tour — we can adjust to your preferences."
+      },
+      {
+        "question": "How do I book a driver?",
+        "answer": "You can book through our website, WhatsApp, or by calling us directly. We recommend booking in advance, especially during Bali’s high seasons."
+      },
+      {
+        "question": "Are your drivers experienced?",
+        "answer": "Yes! All our drivers are local professionals — friendly, experienced, and English-speaking. They can also give you tips about hidden gems around Bali."
+      },
+      {
+        "question": "Can I make stops along the way?",
+        "answer": "Of course! You’re welcome to stop for photos, food, or shopping. Just let us know in advance so we can adjust the schedule accordingly."
+      },
+      {
+        "question": "Do you offer only transfers or also day tours?",
+        "answer": "We offer both. You can book a one-way transfer, a full-day private tour, or even multi-day packages. Our drivers can also serve as local guides if needed."
+      },
+      {
+        "question": "Is your transportation service safe?",
+        "answer": "Your safety is our top priority. Our drivers are licensed and experienced, our vehicles are insured, and we always follow traffic regulations. Your trip will be smooth and secure."
+      }
+    ]
+  },
+
+   "faqHeader": {
+    "subtitle": "Frequently Asked Questions",
+    "titleBefore": "Need help?",
+    "titleHighlight": "Find your answers here"
+  },
+
+  "ctaSection": {
+    "title": "Ready to Plan Your Best Vacation in Bali?",
+    "description": "Contact us now to get the best tour package offers and professional driver services.",
+    "buttonText": "Free Consultation via WhatsApp"
+  },
+   "services": [
+    { "name": "Airport & Hotel Transfer", "href": "/transport" },
+    { "name": "Full Day Bali Tour", "href": "/full-day-tour" },
+    { "name": "Custom Itinerary & Private Guide", "href": "/custom-tour" }
+  ],
+
+   "aboutSubtitle": "Your trusted partner to explore the beauty of Bali with the best tour packages and local drivers.",
+   "footer": {
+    "quickLinks": "Quick Links",
+    "ourServices": "Our Services",
+    "contactUs": "Contact Us"
+  },
+
+  "airportpage": {
+    "description": "We ensure your journey from the airport to your dream destination runs smoothly, safely, and on time with our best vehicles.",
+    "button": "Book Now"
+  },
+  "airportRoutes": {
+    "title": "Selected Transfer Routes"
+  },
+
+  "airportTransfer": {
+    "intro": "“Welcome to Bali.” With Moyo Bali Travel, your journey begins with comfort and professional service from the moment you land on the Island of the Gods.",
+    "servicesTitle": "Professional Airport & Port Transfers",
+    "servicesDesc": "Moyo Bali Travel provides private transfers from the airport or port with experienced, friendly, and English-speaking drivers, ensuring your journey is safe and comfortable.",
+    "servicesList": [
+      {
+        "title": "Available 24/7",
+        "desc": "Our service is ready whenever you arrive."
+      },
+      {
+        "title": "Private & Comfortable Vehicles",
+        "desc": "Modern fleet and professional drivers ready to serve you."
+      },
+      {
+        "title": "Flexible Service",
+        "desc": "Hotel pick-up or full-day tours according to your needs."
+      }
+    ],
+    "coverageTitle": "Main Service Areas",
+    "coverageDesc": "We serve all main arrival points in Bali, including:",
+    "coverageList": [
+      {
+        "title": "Ngurah Rai International Airport",
+        "desc": "For all flight arrivals."
+      },
+      {
+        "title": "Benoa Port",
+        "desc": "For cruise ship arrivals."
+      },
+      {
+        "title": "Celukan Bawang Port",
+        "desc": "For arrivals in North Bali."
+      }
+    ],
+    "note": "Shuttle prices are adjusted according to the distance to your destination."
+  },
+  "airportIntro": "Moyo Bali Travel is a professional transportation service in Bali, ready to accompany you on your journey exploring the beauty of the Island of the Gods.",
+
+  "driver_section": {
+    "title": "Driver Service",
+    "highlight": "Local Bali",
+    "description": "Moyo Bali Travel provides professional transportation services with experienced local Balinese drivers who are friendly and fluent in English. We ensure your journey is safe, comfortable, and enjoyable.",
+    "button": "Start Your Journey",
+    "stats": {
+      "experience": "Years of Experience",
+      "service": "24/7 Service",
+      "clients": "Happy Clients",
+      "satisfaction": "Satisfaction Rate"
+    }
+  },
+
+
+   "about_story": {
+    "title": "The Story Behind",
+    "highlight": "Our Journey",
+    "description_1": "Moyo Bali Travel was born from a genuine passion to deliver unforgettable travel experiences across the enchanting island of Bali. Starting as a simple private transportation service, we have grown into a trusted partner for thousands of travelers, both local and international.",
+    "vision_title": "Our Vision & Mission",
+    "description_2": "Our vision is to become Bali’s leading provider of transportation and tour services — prioritizing comfort, safety, punctuality, and the legendary Balinese hospitality in every trip we offer.",
+    "chips": {
+      "safe": "Safe & Comfortable",
+      "local": "Local & Professional Drivers",
+      "flexible": "Flexible & On Time"
+    }
+  },
+
+  "cta": {
+    "title": "Start Your Journey Now",
+    "description": "Explore Bali with Moyo Bali Travel – local Balinese drivers, comfortable vehicles, and professional service ready to guide you every step of the way.",
+    "button": "Book Now"
+  },
+
+
+  "adventure": {
+    "title": {
+      "part1": "Experience The",
+      "part2": "New Adventure"
+    },
+    "description": "Explore the beauty of Bali with our trusted service. We are committed to providing a safe, comfortable, and unforgettable vacation experience for every traveler.",
+    "features": {
+      "safe": {
+        "title": "Safe Traveling",
+        "desc": "Travel safely with professional drivers and well-maintained vehicles."
+      },
+      "affordable": {
+        "title": "Affordable Price",
+        "desc": "Competitive pricing without compromising on quality service."
+      },
+      "comfort": {
+        "title": "Comfort Accommodation",
+        "desc": "Comfortable accommodation options tailored to your needs."
+      }
+    }
+  },
+
+   "drivers": {
+    "subtitle": "Your Journey, Our Priority",
+    "title": {
+      "part1": "Local",
+      "part2": "& Professional Drivers"
+    },
+    "list": [
+      {
+        "name": "Nyoman",
+        "desc": "A native Balinese driver, experienced and fluent in English."
+      },
+      {
+        "name": "Ketut",
+        "desc": "Knows every corner of Bali and its hidden beautiful destinations."
+      },
+      {
+        "name": "Made",
+        "desc": "Professional, friendly, and always punctual for your journey."
+      }
+    ]
+  },
+
+   "tourPackagesSection": {
+    "title": "Bali Tour Packages",
+    "subtitle": "Discover Bali’s beauty with Moyo Bali Driver — enjoy a private, comfortable, safe, and memorable journey to the best destinations across the Island of the Gods."
+  },
+
+  "tourPackagesTitle": "Explore Our Bali Tour Packages",
+
+  "contactSection": {
+    "title": "Contact Us",
+    "subtitle": "We are ready to help you plan the best trip in Bali. Contact the Moyo Bali Driver team for reservations, service inquiries, or tour information."
+  },
+
+  "contactSectionFull": {
+  "infoTitle": "Contact Information",
+  "addressTitle": "Office Address",
+  "addressText": "Jl. Raya Ubud, Gianyar, Bali, Indonesia",
+  "phoneTitle": "Call Us Directly",
+  "phoneText": "+62 812-3456-7890 (Available 24/7)",
+  "emailTitle": "Business Email",
+  "emailText": "moyobalidriver@gmail.com",
+  "socialTitle": "Find Us on Social Media",
+  "formTitle": "Send Us a Message",
+  "formName": "Your Full Name",
+  "formEmail": "Your Email",
+  "formMessage": "Message or Inquiry Details",
+  "formButton": "Send Message Now"
+},
+
+"transfer": {
+    "minPerson": "Min 2 Person",
+    "button":"Book Now",
+    "destinations": {
+  "kuta": {
+    "description": "Famous beach area with shopping and vibrant nightlife."
+  },
+  "jimbaran": {
+    "description": "Enjoy beachfront seafood and a relaxing vibe near the airport."
+  },
+  "nusa-dua": {
+    "description": "Luxury resorts, white sandy beaches, and fine dining spots."
+  },
+  "uluwatu": {
+    "description": "Iconic cliffs, great surf waves, and stunning sunsets."
+  },
+  "ubud": {
+    "description": "Cultural and artistic center surrounded by lush greenery."
+  },
+  "tegallalang": {
+    "description": "Beautiful rice terraces with authentic village charm."
+  },
+  "padangbai": {
+    "description": "Port to Gili and Lombok with lovely beaches and snorkeling."
+  },
+  "amed": {
+    "description": "Diving paradise in East Bali with a peaceful atmosphere."
+  },
+  "candidasa": {
+    "description": "Quiet coastal area with traditional Balinese culture."
+  },
+  "tulamben": {
+    "description": "Diver’s paradise with the famous USAT Liberty wreck."
+  },
+  "lovina": {
+    "description": "Calm and natural, known for dolphin-watching tours."
+  },
+  "pemuteran": {
+    "description": "Western Bali gem with coral gardens and ferry to Java."
+  }
+}
+},
+
+ "booking_form_title": "Booking Form",
+  "form_name": "Full Name",
+  "form_email": "Email",
+  "form_phone": "Phone Number",
+  "form_message": "Message / Special Request",
+  "book_now": "Book Now",
+  "contact_info": "Contact Info",
+  "price_title": "Price",
+  "program_title": "Itinerary",
+  "included_title": "Included",
+
+
+"tours": [
+  {
+    "id": 1,
+    "title": "Uluwatu Temple Sunset Tour",
+    "duration": "8 hours",
+    "image": "/uluwatutemple.jpg",
+    "description": "Experience the best of Bali’s southern charm. Visit the majestic Uluwatu Temple perched on a cliff, relax at beautiful beaches, enjoy the famous Kecak Fire Dance performance, and end your day with a romantic seafood dinner by the beach in Jimbaran.",
+    "highlight": [
+      "Garuda Wisnu Kencana",
+      "Padang-Padang Beach",
+      "Uluwatu Cliff Temple",
+      "Kecak Fire Dance Performance",
+      "Romantic Dinner at Jimbaran Beach"
+    ],
+    "program": [
+      "Pick-up from your hotel (around 1:00 PM)",
+      "Visit GWK Cultural Park – see the magnificent Garuda Wisnu Kencana statue and panoramic views of Bali",
+      "Stop at Padang-Padang Beach – relax or swim at one of Bali’s most popular beaches",
+      "Explore the iconic Uluwatu Temple on the cliff overlooking the Indian Ocean",
+      "Watch the world-famous Kecak Fire Dance at sunset – a mesmerizing cultural performance",
+      "Enjoy a romantic seafood dinner on the beach at Jimbaran Bay",
+      "Return to your hotel safely"
+    ],
+    "included": [
+      "Private air-conditioned car (Avanza/Innova)",
+      "English-speaking driver/guide",
+      "Chilled mineral water & cool towel",
+      "Free Wi-Fi in the car",
+      "Fuel & parking fees",
+      "Entrance tickets to all attractions (GWK, Padang-Padang Beach, Uluwatu Temple)",
+      "Kecak Fire Dance ticket",
+      "Seafood dinner at Jimbaran Beach"
+    ],
+    "not_included": [
+      "Personal expenses",
+      "Travel insurance",
+      "Tips for the driver (optional)"
+    ],
+    "price": "From IDR 650K / person (minimum 2 persons)",
+    "note": "This tour is perfect for travelers seeking a mix of culture, nature, and culinary delight in one unforgettable day.",
+    "whatsappText": "Hello! I’m interested in booking the Uluwatu Temple Sunset Tour. Could you please share more details?",
+    "gallery": [
+      "/gwk.png",
+      "/padangbeach.jpg",
+      "/uluwatutemple.jpg",
+      "/kecakdance.jpg",
+      "/dinnerjimbaran.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Nusa Dua Beach & Water Sports Adventure",
+    "duration": "6 hours",
+    "image": "/nusaduabeach.jpg",
+    "description": "Enjoy the crystal-clear waters of Nusa Dua Beach. Try exciting water sports like jet skiing, parasailing, and banana boat rides, followed by a relaxing beachside lunch.",
+    "highlight": [
+      "Jet Ski Adventure",
+      "Parasailing Experience",
+      "Banana Boat Ride",
+      "Relax at Nusa Dua Beach",
+      "Beachside Lunch"
+    ],
+    "program": [
+      "Pick-up from your hotel",
+      "Arrive at Nusa Dua Beach and enjoy water sports activities",
+      "Lunch at the beachside cafe",
+      "Relax and swim at the beach",
+      "Return to your hotel"
+    ],
+    "included": [
+      "Private air-conditioned car",
+      "English-speaking driver/guide",
+      "Water sports equipment & safety gear",
+      "Lunch",
+      "Fuel & parking fees",
+      "Beach access fees"
+    ],
+    "not_included": [
+      "Personal expenses",
+      "Travel insurance",
+      "Tips for the driver/guide"
+    ],
+    "price": "From IDR 500K / person",
+    "note": "Perfect for adventure seekers and beach lovers.",
+    "whatsappText": "Hello! I’m interested in booking the Nusa Dua Beach & Water Sports Adventure. Could you provide more info?",
+    "gallery": [
+      "/nusaduabeach.jpg",
+      "/jetski.jpg",
+      "/parasailing.jpg",
+      "/bananaboat.jpg",
+      "/beachlunch.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Tanah Lot & Tabanan Rice Terrace Tour",
+    "duration": "7 hours",
+    "image": "/tanahlot.jpg",
+    "description": "Explore Bali’s iconic sea temple, Tanah Lot, and enjoy the breathtaking Tabanan rice terraces. Perfect for nature lovers and photography enthusiasts.",
+    "highlight": [
+      "Tanah Lot Temple",
+      "Tabanan Rice Terrace",
+      "Sunset Views",
+      "Cultural Villages",
+      "Photography Spots"
+    ],
+    "program": [
+      "Pick-up from hotel",
+      "Visit Tabanan Rice Terrace for scenic views",
+      "Stop at cultural villages to explore local life",
+      "Visit Tanah Lot Temple and enjoy sunset views",
+      "Return to hotel"
+    ],
+    "included": [
+      "Private car and driver",
+      "Entrance fees to attractions",
+      "English-speaking guide",
+      "Fuel & parking",
+      "Mineral water"
+    ],
+    "not_included": [
+      "Personal expenses",
+      "Lunch & drinks",
+      "Tips"
+    ],
+    "price": "From IDR 600K / person",
+    "note": "Ideal for travelers who love nature and cultural photography.",
+    "whatsappText": "Hello! I’m interested in booking the Tanah Lot & Tabanan Rice Terrace Tour. Can you share more details?",
+    "gallery": [
+      "/tanahlot.jpg",
+      "/tabananrice.jpg",
+      "/villages.jpg",
+      "/sunsettanahlot.jpg",
+      "/photospot.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Jimbaran Seafood & Uluwatu Cultural Experience",
+    "duration": "5 hours",
+    "image": "/jimbaranseafood.jpg",
+    "description": "Experience the perfect blend of culture and cuisine in Bali. Visit Uluwatu Temple, enjoy a traditional Kecak dance, and end the day with a sumptuous seafood dinner at Jimbaran Bay.",
+    "highlight": [
+      "Uluwatu Temple Visit",
+      "Kecak Dance Performance",
+      "Jimbaran Seafood Dinner",
+      "Sunset Views",
+      "Private Transportation"
+    ],
+    "program": [
+      "Pick-up from hotel",
+      "Visit Uluwatu Temple",
+      "Watch Kecak Dance performance at sunset",
+      "Seafood dinner at Jimbaran Bay",
+      "Return to hotel"
+    ],
+    "included": [
+      "Private air-conditioned car",
+      "English-speaking driver/guide",
+      "Dinner at Jimbaran",
+      "Entrance fees to Uluwatu Temple",
+      "Fuel & parking"
+    ],
+    "not_included": [
+      "Personal expenses",
+      "Travel insurance",
+      "Tips for guide"
+    ],
+    "price": "From IDR 700K / person",
+    "note": "A cultural and culinary experience you won’t forget.",
+    "whatsappText": "Hello! I’m interested in booking the Jimbaran Seafood & Uluwatu Cultural Experience. Can you provide details?",
+    "gallery": [
+      "/jimbaranseafood.jpg",
+      "/uluwatutemple2.jpg",
+      "/kecakdance2.jpg",
+      "/sunsetjimbaran.jpg",
+      "/beachdinner.jpg"
+    ]
+  }
+]
+
+  
+} 
