@@ -152,7 +152,7 @@ function TransferPackagesSection() {
                 {/* Header Section */}
                 <div className="flex justify-between items-end mb-12 border-b border-gray-200 pb-4">
                     <div className="max-w-xl">
-                        <h2 className="text-3xl md:text-4xl font-extrabold text-teal-600 dark:text-teal-400">
+                        <h2 className="text-3xl md:text-4xl font-extrabold text-teal-600">
                             {t("airportRoutes.title")}
                         </h2>
                     </div>
@@ -163,7 +163,7 @@ function TransferPackagesSection() {
   {transferDestinations.map((dest) => (
     <div
       key={dest.id}
-      className="bg-white dark:bg-gray-900 rounded-xl shadow-lg overflow-hidden transition-transform duration-300 hover:shadow-2xl hover:-translate-y-1"
+      className="bg-white rounded-xl shadow-lg overflow-hidden transition-transform duration-300 hover:shadow-2xl hover:-translate-y-1"
     >
       {/* Gambar Card */}
       <div className="h-40 overflow-hidden">
@@ -178,10 +178,10 @@ function TransferPackagesSection() {
       <div className="p-4 flex flex-col justify-between h-[calc(100%-10rem)]">
         {/* Header dan Deskripsi */}
         <div>
-          <p className="text-sm font-medium text-gray-500 dark:text-gray-400 uppercase">
+          <p className="text-sm font-medium text-gray-500 uppercase">
             Airport Transfer
           </p>
-          <h3 className="text-xl font-bold text-gray-900 dark:text-white mt-1 mb-2">
+          <h3 className="text-xl font-bold text-gray-900 mt-1 mb-2">
             {dest.title}
           </h3>
 
@@ -191,21 +191,21 @@ function TransferPackagesSection() {
           </div>
 
           {/* Deskripsi */}
-          <p className="text-sm text-gray-600 dark:text-gray-400 mb-4  overflow-hidden">
+          <p className="text-sm text-gray-600 mb-4  overflow-hidden">
             {t(dest.descriptionKey)}
           </p>
         </div>
 
         {/* Harga dan Tombol (Footer Card) */}
-        <div className="pt-3 border-t border-gray-100 dark:border-gray-700">
+        <div className="pt-3 border-t border-gray-100">
           <div className="flex justify-between items-center mb-3">
             <div>
               {/* Harga IDR */}
-              <p className="text-lg font-extrabold text-teal-600 dark:text-teal-400">
+              <p className="text-lg font-extrabold text-teal-600">
                 {dest.priceIDR}
               </p>
               {/* Harga USD */}
-              <p className="text-sm font-semibold text-gray-700 dark:text-gray-300">
+              <p className="text-sm font-semibold text-gray-700">
                 {dest.priceUSD}
               </p>
               {/* Minimum Person */}

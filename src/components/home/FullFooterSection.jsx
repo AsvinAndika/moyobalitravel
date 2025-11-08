@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 
 // --- KOMPONEN CTA (Diperbarui dengan warna baru) ---
 const CTASection = () => {
-  const CtaBackgroundImage = "url('/lempuyang.jpg')"; 
+  const CtaBackgroundImage = "url('/lempuyang.webp')"; 
   const { t } = useTranslation();
   const cta = t("ctaSection", { returnObjects: true });
   return (

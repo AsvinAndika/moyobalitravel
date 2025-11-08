@@ -6,14 +6,14 @@ function TourPackagesSection() {
    const { t } = useTranslation();
     const paketWisata = t("tours", { returnObjects: true });
   return (
-    <section className="pb-24 bg-gradient-to-b from-white via-secondary/10 to-white dark:from-gray-900 dark:via-gray-800 dark:to-gray-900" id="tours">
+    <section className="pb-24 bg-gradient-to-b from-white via-secondary/10 to-white" id="tours">
       <div className="max-w-7xl mx-auto px-6 lg:px-12">
         
 
 
         <div className="flex justify-between items-end mb-12 border-b border-gray-200 pb-4">
                     <div className="max-w-xl">
-                        <h2 className="text-3xl md:text-4xl font-extrabold text-teal-600 dark:text-teal-400">
+                        <h2 className="text-3xl md:text-4xl font-extrabold text-teal-600">
                              {t("tourPackagesTitle")}
                         </h2>
                     </div>
@@ -24,7 +24,7 @@ function TourPackagesSection() {
       {paketWisata.map((tour, index) => (
         <div
           key={index}
-          className="bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition-transform transform hover:-translate-y-2 duration-300 flex flex-col"
+          className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition-transform transform hover:-translate-y-2 duration-300 flex flex-col"
         >
           {/* Gambar */}
           <img
@@ -36,11 +36,11 @@ function TourPackagesSection() {
           {/* Konten */}
           <div className="p-6 flex flex-col flex-grow">
             <div className="flex-grow">
-              <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
+              <h3 className="text-2xl font-bold text-gray-900 mb-2">
                 {tour.title}
               </h3>
 
-              <p className="text-gray-600 dark:text-gray-400 text-sm mb-4">
+              <p className="text-gray-600 text-sm mb-4">
                 {tour.description.split(" ").length > 20
                   ? tour.description.split(" ").slice(0, 20).join(" ") + "..."
                   : tour.description}
@@ -63,7 +63,7 @@ function TourPackagesSection() {
             </div>
 
             {/* Tombol */}
-            <div className="flex gap-3 mt-4 pt-4 border-t border-gray-100 dark:border-gray-700">
+            <div className="flex gap-3 mt-4 pt-4 border-t border-gray-100">
               <a
                 href={`${tour.whatsappLink || "#"} `}
                 target="_blank"

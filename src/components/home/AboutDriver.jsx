@@ -53,7 +53,7 @@ const AboutDriver = () => {
       style={{ height: '60%' }}
     >
       <img
-        src="/kecak.png"
+        src="/kecak.webp"
         alt="Uluwatu Kecak Dance"
         className="w-full h-full object-cover"
       />
@@ -65,7 +65,7 @@ const AboutDriver = () => {
       w-full lg:w-1/2 lg:absolute lg:bottom-4 lg:left-4 z-30"
     >
       <img
-        src="/aboutdua.jpg"
+        src="/aboutdua.webp"
         alt="Balinese Gate of Heaven"
         className="w-full h-[280px] object-cover"
       />
@@ -77,7 +77,7 @@ const AboutDriver = () => {
       w-full lg:w-[45%] lg:absolute lg:bottom-[40px] lg:right-[-4px] z-20"
     >
       <img
-        src="/aboutsatu.png"
+        src="/aboutsatu.webp"
         alt="Ulun Danu Beratan Temple"
         className="w-full h-[300px] object-cover"
       />

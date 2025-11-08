@@ -104,25 +104,25 @@
     {
       "title": "South Bali Tour",
       "description": "Explore exotic beaches, culture, and top highlights of South Bali.",
-      "image": "/kecak.png",
+      "image": "/kecak.webp",
       "link": "/bali-selatan-tour"
     },
     {
       "title": "Nusa Penida Tour",
       "description": "See iconic cliffs, hidden beaches, and the best photo spots in Nusa Penida.",
-      "image": "/special.jpg",
+      "image": "/special.webp",
       "link": "/nusa-penida-tour"
     },
     {
       "title": "Tour Activity",
       "description": "Exciting activity options: thrilling watersports and other nature adventures.",
-      "image": "/activity.jpg",
+      "image": "/activity.webp",
       "link": "/tour-activity"
     },
     {
       "title": "Lembongan Tour",
       "description": "Enjoy serene beaches, Yellow Bridge, and snorkeling spots on Lembongan Island.",
-      "image": "/lembongan.jpg",
+      "image": "/lembongan.webp",
       "link": "/lembongan-tour"
     }
   ],

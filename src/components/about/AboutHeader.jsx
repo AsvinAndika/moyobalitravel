@@ -9,7 +9,6 @@ function AboutHeader() {
        
         <div className="
             p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12 
-            dark:bg-gray-900 
             flex justify-center items-center mt-20 md:mt-14"> 
             
            
@@ -27,7 +26,7 @@ function AboutHeader() {
 
                 <div className="absolute inset-0">
                     <img 
-                        src="/tirtagangga.jpg" 
+                        src="/tirtagangga.webp" 
                         alt="Latar Belakang Airport" 
                         className="w-full h-full object-cover" 
                     />

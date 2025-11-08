@@ -51,7 +51,7 @@ const PaketHome = () => {
         {paketWisata.slice(0, 3).map((tour, index) => (
         <div
           key={index}
-          className="bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition-transform transform hover:-translate-y-2 duration-300 flex flex-col"
+          className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition-transform transform hover:-translate-y-2 duration-300 flex flex-col"
         >
           {/* Gambar */}
           <img
@@ -63,11 +63,11 @@ const PaketHome = () => {
           {/* Konten */}
           <div className="p-6 flex flex-col flex-grow">
             <div className="flex-grow">
-              <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
+              <h3 className="text-2xl font-bold text-gray-900 mb-2">
                 {tour.title}
               </h3>
 
-              <p className="text-gray-600 dark:text-gray-400 text-sm mb-4">
+              <p className="text-gray-600 text-sm mb-4">
                 {tour.description.split(" ").length > 20
                   ? tour.description.split(" ").slice(0, 20).join(" ") + "..."
                   : tour.description}
@@ -90,7 +90,7 @@ const PaketHome = () => {
             </div>
 
             {/* Tombol */}
-            <div className="flex gap-3 mt-4 pt-4 border-t border-gray-100 dark:border-gray-700">
+            <div className="flex gap-3 mt-4 pt-4 border-t border-gray-100">
               <a
                 href={`${tour.whatsappLink || "#"} `}
                 target="_blank"

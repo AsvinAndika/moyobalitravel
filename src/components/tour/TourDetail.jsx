@@ -33,7 +33,7 @@ function TourDetail() {
   return (
     <>
       <Navbar />
-    <section className="py-16 mt-12 bg-white dark:bg-gray-900">
+    <section className="py-16 mt-12 bg-white">
   <div className="max-w-7xl mx-auto px-6 lg:px-12">
     {/* Grid Utama: Kiri Lebih Lebar (Info Tour), Kanan (Form & Kontak) */}
     <div className="grid md:grid-cols-3 gap-10 mb-12">
@@ -42,7 +42,7 @@ function TourDetail() {
       <div className="md:col-span-2 flex flex-col space-y-8">
         
         {/* Gambar Utama */}
-        <div className="rounded-2xl overflow-hidden shadow-xl dark:shadow-2xl">
+        <div className="rounded-2xl overflow-hidden shadow-xl">
           <img
             src={tour.image}
             alt={tour.title}
@@ -52,16 +52,16 @@ function TourDetail() {
 
         {/* Header & Deskripsi Tour */}
         <div className="pt-4">
-          <h1 className="text-4xl font-extrabold text-gray-900 dark:text-white mb-4">
+          <h1 className="text-4xl font-extrabold text-gray-900 mb-4">
             {tour.title}
           </h1>
-          <p className="text-lg text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
+          <p className="text-lg text-gray-700 mb-6 leading-relaxed">
             {tour.description}
           </p>
 
           {/* Durasi & Highlight */}
-          <div className="flex flex-wrap items-center gap-6 mb-8 border-b pb-4 border-gray-100 dark:border-gray-800">
-            <div className="flex items-center text-lg text-amber-600 dark:text-amber-400 font-semibold gap-2">
+          <div className="flex flex-wrap items-center gap-6 mb-8 border-b pb-4 border-gray-100">
+            <div className="flex items-center text-lg text-amber-600 font-semibold gap-2">
               <svg className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M12 2a10 10 0 100 20 10 10 0 000-20zm1 11h-2V7h2v6z" />
               </svg>
@@ -73,7 +73,7 @@ function TourDetail() {
               {tour.highlight.map((item, i) => (
                 <span
                   key={i}
-                  className="text-sm bg-teal-50 text-teal-700 dark:bg-teal-900/50 dark:text-teal-300 px-4 py-1.5 rounded-full font-medium transition"
+                  className="text-sm bg-teal-50 text-teal-700 px-4 py-1.5 rounded-full font-medium transition"
                 >
                   {item}
                 </span>
@@ -82,28 +82,28 @@ function TourDetail() {
           </div>
           
           {/* Harga */}
-          <div className="bg-gray-50 dark:bg-gray-800 rounded-xl p-6 border border-gray-100 dark:border-gray-700">
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
+          <div className="bg-gray-50 rounded-xl p-6 border border-gray-100">
+            <h2 className="text-2xl font-bold text-gray-900 mb-2">
               {t("price_title")}
             </h2>
-            <p className="text-2xl font-extrabold text-teal-600 dark:text-teal-400 mb-1">
+            <p className="text-2xl font-extrabold text-teal-600 mb-1">
               {tour.price}
             </p>
             {tour.note && (
-              <p className="text-sm text-gray-600 dark:text-gray-400 italic">*{tour.note}</p>
+              <p className="text-sm text-gray-600 italic">*{tour.note}</p>
             )}
           </div>
            <div className="space-y-10 pt-10">
       
       {/* Program */}
-      <div className="bg-white dark:bg-gray-800 rounded-2xl p-8 border border-gray-200 dark:border-gray-700">
-        <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-6 border-b pb-3 border-gray-100 dark:border-gray-700">
+      <div className="bg-white rounded-2xl p-8 border border-gray-200">
+        <h2 className="text-3xl font-bold text-gray-900 mb-6 border-b pb-3 border-gray-100">
           {t("program_title")}
         </h2>
-        <ul className="list-inside space-y-4 text-gray-700 dark:text-gray-300">
+        <ul className="list-inside space-y-4 text-gray-700">
           {tour.program.map((step, index) => (
             <li key={index} className="flex items-start gap-3">
-                <span className="flex-shrink-0 text-xl font-bold text-teal-600 dark:text-teal-400">{index + 1}.</span>
+                <span className="flex-shrink-0 text-xl font-bold text-teal-600">{index + 1}.</span>
                 <p className="flex-1">{step}</p>
             </li>
           ))}
@@ -111,11 +111,11 @@ function TourDetail() {
       </div>
 
       {/* Included */}
-      <div className="bg-white dark:bg-gray-800 rounded-2xl p-8 border border-gray-200 dark:border-gray-700">
-        <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-6 border-b pb-3 border-gray-100 dark:border-gray-700">
+      <div className="bg-white rounded-2xl p-8 border border-gray-200">
+        <h2 className="text-3xl font-bold text-gray-900 mb-6 border-b pb-3 border-gray-100">
           {t("included_title")}
         </h2>
-        <ul className="grid md:grid-cols-2 gap-x-10 gap-y-4 text-gray-700 dark:text-gray-300">
+        <ul className="grid md:grid-cols-2 gap-x-10 gap-y-4 text-gray-700">
           {tour.included.map((item, index) => (
             <li key={index} className="flex items-start gap-3">
                 {/* Ikon centang sederhana */}
@@ -143,11 +143,11 @@ function TourDetail() {
       </div>
 
       {/* Kanan (1/3): Form Pemesanan & Kontak */}
-     <div className="md:col-span-1 bg-gray/30 dark:bg-gray-800 rounded-2xl p-5 sticky top-24 self-start border border-gray-200">
+     <div className="md:col-span-1 bg-gray/30 rounded-2xl p-5 sticky top-24 self-start border border-gray-200">
         
         {/* Form Pemesanan */}
         <div className="mb-8">
-          <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-5 border-b pb-3 border-gray-200">
+          <h2 className="text-2xl font-bold text-gray-900 mb-5 border-b pb-3 border-gray-200">
             {t("booking_form_title")}
           </h2>
           <form className="space-y-4">
@@ -156,13 +156,13 @@ function TourDetail() {
                 key={key}
                 type={key === 'form_email' ? 'email' : key === 'form_phone' ? 'tel' : 'text'}
                 placeholder={t(key)}
-                className="w-full px-4 py-3 rounded-xl border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white placeholder-gray-500 focus:ring-teal-500 focus:border-teal-500 transition"
+                className="w-full px-4 py-3 rounded-xl border border-gray-30 bg-white text-gray-900 placeholder-gray-500 focus:ring-teal-500 focus:border-teal-500 transition"
               />
             ))}
             <textarea
               placeholder={t("form_message")}
               rows="4"
-              className="w-full px-4 py-3 rounded-xl border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white placeholder-gray-500 focus:ring-teal-500 focus:border-teal-500 transition"
+              className="w-full px-4 py-3 rounded-xl border border-gray-300 bg-white text-gray-900 placeholder-gray-500 focus:ring-teal-500 focus:border-teal-500 transition"
             />
             <button
               type="submit"
@@ -174,19 +174,19 @@ function TourDetail() {
         </div>
 
         {/* Kontak tambahan dengan ikon */}
-        <div className="mt-6 border-t border-gray-300 dark:border-gray-700 pt-6 space-y-4 text-gray-700 dark:text-gray-300">
-          <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">
+        <div className="mt-6 border-t border-gray-300 pt-6 space-y-4 text-gray-700">
+          <h3 className="text-xl font-bold text-gray-900 mb-3">
             {t("contact_info")}
           </h3>
 
           <div className="flex flex-col space-y-3">
-            <a href="https://wa.me/6281234567890" className="flex items-center gap-3 hover:text-teal-600 dark:hover:text-teal-400 transition group">
-              <FaWhatsapp className="text-teal-600 dark:text-teal-400 w-5 h-5 group-hover:scale-110 transition" />
+            <a href="https://wa.me/6281234567890" className="flex items-center gap-3 hover:text-teal-600 transition group">
+              <FaWhatsapp className="text-teal-600 w-5 h-5 group-hover:scale-110 transition" />
               <span className="font-medium">+62 812-3456-7890</span>
             </a>
 
-            <a href="mailto:info@tourbali.com" className="flex items-center gap-3 hover:text-teal-600 dark:hover:text-teal-400 transition group">
-              <FaEnvelope className="text-teal-600 dark:text-teal-400 w-5 h-5 group-hover:scale-110 transition" />
+            <a href="mailto:info@tourbali.com" className="flex items-center gap-3 hover:text-teal-600 transition group">
+              <FaEnvelope className="text-teal-600 w-5 h-5 group-hover:scale-110 transition" />
               <span className="font-medium">info@tourbali.com</span>
             </a>
           </div>
@@ -198,7 +198,7 @@ function TourDetail() {
                 href={`https://${Icon.name.toLowerCase()}.com/youraccount`} 
                 target="_blank" 
                 rel="noopener noreferrer" 
-                className="text-gray-500 hover:text-teal-600 dark:hover:text-teal-400 transition transform hover:scale-110"
+                className="text-gray-500 hover:text-teal-600 transition transform hover:scale-110"
                 aria-label={Icon.name}
               >
                 <Icon size={24} />

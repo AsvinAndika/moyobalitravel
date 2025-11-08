@@ -104,25 +104,25 @@
     {
       "title": "Bali Selatan Tour",
       "description": "Eksplorasi penuh pantai eksotis, budaya, dan keseruan utama di Bali Selatan.",
-      "image": "/kecak.png",
+      "image": "/kecak.webp",
       "link": "/bali-selatan-tour"
     },
     {
       "title": "Nusa Penida Tour",
       "description": "Saksikan tebing ikonik, pantai tersembunyi, dan spot foto terbaik Nusa Penida.",
-      "image": "/special.jpg",
+      "image": "/special.webp",
       "link": "/nusa-penida-tour"
     },
     {
       "title": "Tour Activity",
       "description": "Pilihan aktivitas seru: watersport yang mendebarkan dan petualangan alam lainnya.",
-      "image": "/activity.jpg",
+      "image": "/activity.webp",
       "link": "/tour-activity"
     },
     {
       "title": "Lembongan Tour",
       "description": "Nikmati pantai tenang, Jembatan Kuning, dan spot snorkeling di Pulau Lembongan.",
-      "image": "/lembongan.jpg",
+      "image": "/lembongan.webp",
       "link": "/lembongan-tour"
     }
   ],

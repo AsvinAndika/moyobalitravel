@@ -25,7 +25,6 @@ function AirHeader() {
        
         <div className="
             p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12 
-            dark:bg-gray-900 
             flex justify-center items-center mt-20 md:mt-14 md:mb-0 mb-7"> 
             
            
@@ -43,7 +42,7 @@ function AirHeader() {
 
                 <div className="absolute inset-0">
                     <img 
-                        src="/ulundanu.jpg" 
+                        src="/ulundanu.webp" 
                         alt="Latar Belakang Airport"
                         className="w-full h-full object-cover" 
                     />

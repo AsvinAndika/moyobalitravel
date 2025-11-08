@@ -6,7 +6,6 @@ function TourHeader() {
        
         <div className="
             p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12 
-            dark:bg-gray-900 
             flex justify-center items-center mt-20 md:mt-14 mb-7 md:mb-0"> 
             
            
@@ -24,7 +23,7 @@ function TourHeader() {
 
                 <div className="absolute inset-0">
                     <img 
-                        src="/tegalalang.jpg" 
+                        src="/tegalalang.webp" 
                         alt="Latar Belakang Airport" 
                         className="w-full h-full object-cover" 
                     />

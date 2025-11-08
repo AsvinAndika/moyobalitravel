@@ -14,37 +14,37 @@ function Header() {
 const heroSlides = [
     {
       id: 1,
-      image: "/ulundanu.jpg",
+      image: "/ulundanu.webp",
       title: t("hero.ulundanu.title"),
       subtitle: t("hero.ulundanu.subtitle"),
     },
     {
       id: 2,
-      image: "/tegalalang.jpg",
+      image: "/tegalalang.webp",
       title: t("hero.tegalalang.title"),
       subtitle: t("hero.tegalalang.subtitle"),
     },
     {
       id: 3,
-      image: "/kecak.png",
+      image: "/kecak.webp",
       title: t("hero.kecak.title"),
       subtitle: t("hero.kecak.subtitle"),
     },
     {
       id: 4,
-      image: "/lovinaheader.jpg",
+      image: "/lovinaheader.webp",
       title: t("hero.lovina.title"),
       subtitle: t("hero.lovina.subtitle"),
     },
     {
       id: 5,
-      image: "/lempuyang.jpg",
+      image: "/lempuyang.webp",
       title: t("hero.lempuyang.title"),
       subtitle: t("hero.lempuyang.subtitle"),
     },
     {
       id: 6,
-      image: "/special.jpg",
+      image: "/special.webp",
       title: t("hero.kelingking.title"),
       subtitle: t("hero.kelingking.subtitle"),
     },

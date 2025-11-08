@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 const ExperienceSection = () => {
   // Path untuk tag <img>
   // Pastikan gambar ini ada di folder public Anda
-  const travelerImagePath = "/aboutdua.jpg"; 
+  const travelerImagePath = "/aboutdua.webp"; 
 
   const { t } = useTranslation();
   const stats = t("experienceStats", { returnObjects: true });

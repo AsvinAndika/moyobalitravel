@@ -71,7 +71,7 @@ export default function FaqSection() {
         >
           <div className="relative w-full max-w-md lg:max-w-lg xl:max-w-xl">
             <img
-              src="/gwk.png"
+              src="/gwk.webp"
               alt="GWK Statue"
               className="w-full h-[480px] md:h-[520px] object-cover rounded-3xl shadow-2xl transform hover:scale-[1.03] transition-transform duration-500"
             />

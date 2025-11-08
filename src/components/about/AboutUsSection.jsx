@@ -78,7 +78,7 @@ function AboutUsSection() {
           {/* Kanan: Gambar */}
           <div className="relative">
             <img
-              src="/ulundanu.jpg" // langsung dari public
+              src="/ulundanu.webp" // langsung dari public
               alt="Ulun Danu"
               className="rounded-2xl shadow-2xl w-full object-cover"
             />
@@ -147,7 +147,7 @@ function AboutUsSection() {
   {/* Gambar 3 */}
   <div className="rounded-3xl overflow-hidden shadow-xl">
     <img
-      src="/ulundanu.jpg"
+      src="/ulundanu.webp"
       alt="Danau Ulun Danu"
       className="w-full h-full object-cover transform hover:scale-105 transition duration-500 ease-in-out"
     />
@@ -156,7 +156,7 @@ function AboutUsSection() {
   {/* Gambar 4 */}
   <div className="rounded-3xl overflow-hidden shadow-xl">
     <img
-      src="/activity.jpg"
+      src="/activity.webp"
       alt="Layanan Moyo Bali"
       className="w-full h-[300px] object-cover transform hover:scale-105 transition duration-500 ease-in-out"
     />

@@ -10,7 +10,7 @@ function ValueHome(){
                 {/* Pastikan gambar latar belakang diakses dengan benar */}
                 {/* Catatan: Di lingkungan React, Anda mungkin perlu mengimpor gambar atau memastikan jalur '/banner2.jpg' dapat diakses. */}
                 <img
-                src="/banner2.jpg"
+                src="/banner2.webp"
                 alt="Background"
                 className="w-full h-full object-cover object-center"
                 />
